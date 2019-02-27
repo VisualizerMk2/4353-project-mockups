@@ -1,16 +1,13 @@
 body {
   margin-top: 60px; }
 
-.navbar {
-  opacity: 0.95; }
-
 .home-inner {
   padding-top: 50px; }
 
 #showcase {
   position: relative;
   background: url("../img/mountains.jpg");
-  min-height: 600px; }
+  min-height: 710px; }
   #showcase .primary-overlay {
     background: rgba(129, 76, 79, 0.3);
     position: absolute;
@@ -18,6 +15,14 @@ body {
     left: 0;
     width: 100%;
     height: 100%; }
+
+#edit-profile {
+  position: relative;
+  min-height: 710px; }
+
+#get-quote {
+  position: relative;
+  min-height: 710px; }
 
 #scroll {
   padding-top: 1000px; }
